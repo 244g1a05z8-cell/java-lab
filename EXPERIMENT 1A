@@ -1,5 +1,5 @@
 ##Title :Default primitive datatypes
-```java
+```
 class Datatypes
 {
     static int i;

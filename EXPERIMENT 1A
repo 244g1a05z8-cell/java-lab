@@ -1,0 +1,29 @@
+##Title :Default primitive datatypes
+```java
+class Datatypes
+{
+    static int i;
+    static char c;
+    static double d;
+    static float f;
+    static long l;
+    static short s;
+    static byte b;
+    static boolean bool;
+public static void main(String[]args)
+{
+System.out.println("default primitive datatypes:");
+System.out.println("int:"+i);
+System.out.println("char:"+c);
+System.out.println("double:"+d);
+System.out.println("float:"+f);
+System.out.println("long:"+l);
+System.out.println("short:"+s);
+System.out.println("byte:"+b);
+System.out.println("boolean:"+bool);
+}
+}
+```
+##output:
+
+![output of primitive]()
